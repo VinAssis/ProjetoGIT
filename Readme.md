@@ -1,1 +1,1 @@
-Olá ,esse é o proejto de introducao ao GIT
+Olá ,esse é o projeto de introducao ao GIT
